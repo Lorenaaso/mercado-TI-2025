@@ -16,6 +16,8 @@ O objetivo foi analisar vagas reais de tecnologia em 2025, identificar *hard ski
   - Conclusões e tendências observadas  
   - Plano de ação (6 meses)  
 
+PDF [Desvendando o Futuro O Perfil do Desenvolvedor Front-end Júnior em 2025.pdf](https://github.com/user-attachments/files/22321262/Desvendando.o.Futuro.O.Perfil.do.Desenvolvedor.Front-end.Junior.em.2025.pdf)
+
 - *Gráficos em PNG*  
   Arquivos visuais para melhor compreensão dos dados:
   - hard_skills_frontend.png  
